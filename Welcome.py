@@ -1,8 +1,8 @@
 import amino
 
-email = ""  # Set your own password here!
-password = ""  # Set your own password here!
-cid = ""  # Community ID
+email = "liza24221@gmail.com"  # Set your own password here!
+password = "sagar890"  # Set your own password here!
+cid = "59449739"  # Community ID
 
 client = amino.Client()
 client.login(email=email, password=password)
